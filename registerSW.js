@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/zoro-expense-tracker-project1-/sw.js', { scope: '/zoro-expense-tracker-project1-/' })})}
